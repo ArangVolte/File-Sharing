@@ -2,4 +2,4 @@ tgcrypto
 pyrofork
 python-dotenv
 tinyDB
-pyromod
+pyromod==1.5
