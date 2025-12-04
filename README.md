@@ -28,6 +28,8 @@ Bot Telegram untuk menyimpan postingan atau file yang dapat diakses melalui link
 
 `cp sample.env .env`
 
+`pip3 install -r requirements.txt`
+
 `bash start`
 
 
